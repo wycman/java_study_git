@@ -3,7 +3,6 @@ package org.example;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
-import java.util.concurrent.TimeUnit;
 
 public class managesys {
     public static void main(String[] args) {
@@ -45,7 +44,6 @@ public class managesys {
                 }
 
             }
-            TimeUnit.SECONDS
         }
 
         //****学生管理系统界面
