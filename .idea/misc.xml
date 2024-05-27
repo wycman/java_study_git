@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day02/pom.xml" />
+        <option value="$PROJECT_DIR$/dav03/pom.xml" />
+        <option value="$PROJECT_DIR$/day04/pom.xml" />
+        <option value="$PROJECT_DIR$/day05/pom.xml" />
+        <option value="$PROJECT_DIR$/day06/pom.xml" />
+        <option value="$PROJECT_DIR$/day07/pom.xml" />
+        <option value="$PROJECT_DIR$/day08/pom.xml" />
+        <option value="$PROJECT_DIR$/day09/pom.xml" />
+        <option value="$PROJECT_DIR$/day10/pom.xml" />
+        <option value="$PROJECT_DIR$/day11/pom.xml" />
+        <option value="$PROJECT_DIR$/day12/pom.xml" />
+        <option value="$PROJECT_DIR$/day13-game/pom.xml" />
+        <option value="$PROJECT_DIR$/day14/pom.xml" />
+        <option value="$PROJECT_DIR$/day15/pom.xml" />
+        <option value="$PROJECT_DIR$/day16/pom.xml" />
+        <option value="$PROJECT_DIR$/day17/pom.xml" />
+        <option value="$PROJECT_DIR$/day18/pom.xml" />
+        <option value="$PROJECT_DIR$/day19/pom.xml" />
+        <option value="$PROJECT_DIR$/day20/pom.xml" />
+        <option value="$PROJECT_DIR$/day21/pom.xml" />
+        <option value="$PROJECT_DIR$/day22-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/day23-Thread2/pom.xml" />
+        <option value="$PROJECT_DIR$/dom4jExp/pom.xml" />
+        <option value="$PROJECT_DIR$/websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/java_advance/pom.xml" />
+        <option value="$PROJECT_DIR$/matcher/pom.xml" />
+        <option value="$PROJECT_DIR$/reflection_java_advance/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy_java/pom.xml" />
+        <option value="$PROJECT_DIR$/Final_Test/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

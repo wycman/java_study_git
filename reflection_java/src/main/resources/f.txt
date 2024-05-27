@@ -1,0 +1,8 @@
+-----Member
+name---乃木园子
+age---15
+address---勇者部
+-----Member
+name---wassi
+age---16
+address---勇者部

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 示例XML文件，用于解析教学 -->
+<library>
+    <books>
+        <book id="bk101">
+            <title>XML入门与实践</title>
+            <author>张三</author>
+            <year>2005</year>
+            <price>39.99</price>
+        </book>
+        <book id="bk102">
+            <title>Java编程思想</title>
+            <!-- 注意：此书为经典之作 -->
+            <author>李四</author>
+            <year>2008</year>
+            <price>89.00</price>
+        </book>
+    </books>
+    <magazines>
+        <magazine issue="apr-2023">
+            <title>程序员杂志</title>
+            <publisher>编程世界出版社</publisher>
+            <releaseDate>2023-04-15</releaseDate>
+        </magazine>
+    </magazines>
+    <audioBooks>
+        <audioBook isbn="ab1234">
+            <title>深入浅出算法</title>
+            <narrator>王五</narrator>
+            <duration>360</duration> <!-- duration in minutes -->
+            <format>MP3</format>
+        </audioBook>
+    </audioBooks>
+</library>
