@@ -5,6 +5,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class managesys {
+    //b1分支修改
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         //创建一个存储用户对象的用户信息列表集
